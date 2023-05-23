@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "TimedFunction": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7298",
+      "launchBrowser": false
+    }
+  }
+}
